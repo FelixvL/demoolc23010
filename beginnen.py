@@ -7,3 +7,4 @@ resultaat = getal1 + getal2
 
 # Toon het resultaat
 print("Het resultaat van de optelling is:", resultaat)
+iets extra
