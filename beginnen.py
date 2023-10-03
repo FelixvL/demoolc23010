@@ -5,5 +5,5 @@ getal2 = float(input("Voer het tweede getal in: "))
 # Voer de optelling uit
 resultaat = getal1 + getal2
 
-# Toon het resultaat ab
+# Toon het resultaat abcd
 print("Het resultaat van de optelling is:", resultaat)
